@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "Javas",
+      "title": "Java",
       "logo": "https://eternitech.com/wp-content/uploads/2016/12/Java.png"
     },
      {

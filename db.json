@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
       "title": "Java",
@@ -22,6 +22,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "courses"
   }
 }

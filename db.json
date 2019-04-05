@@ -12,8 +12,14 @@
      },
     {
       "id": 3,
+      "title": "HTML, CSS, JS",
+      "logo": "https://upcity.com/wp-content/uploads/2015/07/html-css-js-logos.png" 
+    },
+    {
+      "id": 4,
       "title": "Angular",
-      "logo": "https://www.ateamindia.com/wp-content/uploads/2018/10/angular-logo.png" }
+      "logo": "https://www.ateamindia.com/wp-content/uploads/2018/10/angular-logo.png" 
+    }
   ],
   "profile": {
     "name": "typicode"
